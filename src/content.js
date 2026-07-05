@@ -88,7 +88,7 @@ export const plans = [
     highlight: true,
   },
   {
-    name: 'TheraBelle Studio',
+    name: 'Thera Belle Studio',
     price: 'R$ 1.300',
     originalPrice: 'R$ 1.700',
     period: '/ mês',
